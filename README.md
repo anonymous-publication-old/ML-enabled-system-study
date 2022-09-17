@@ -16,3 +16,4 @@ The contents of each folders are listed below:
 - **8b-file_ext_position**: Plots of file depths in folders grouped by file extentions.
 - **9a-dev-phases**: Count of ML development phases and their combinations found in the subjects.
 - **9b-dev_phases**: Projects evolution indicating development phases affected per commit.
+- **10-Scripts**: Python scripts used in this study.
